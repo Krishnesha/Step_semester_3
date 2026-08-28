@@ -17,7 +17,7 @@ class BookInventory {
     }
 }
 
-public class BookInventory {
+ class main {
     public static void main(String[] args) {
 
         BookInventory b1 =
