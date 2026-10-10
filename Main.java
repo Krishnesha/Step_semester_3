@@ -77,4 +77,9 @@ public class Main {
         // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'printBackward'");
     }
+
+    public void printTurns(int i) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'printTurns'");
+    }
 }
