@@ -42,4 +42,24 @@ public class Main {
         // Call static method using CLASS NAME
         Employee.printCompanyInfo();
     }
+
+    public void insertAt(int index, int token) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'insertAt'");
+    }
+
+    public void addFirst(int nextInt) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'addFirst'");
+    }
+
+    public void addLast(int nextInt) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'addLast'");
+    }
+
+    public void display() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'display'");
+    }
 }
