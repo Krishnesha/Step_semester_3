@@ -53,7 +53,7 @@ public class Main {
         throw new UnsupportedOperationException("Unimplemented method 'addFirst'");
     }
 
-    public void addLast(int nextInt) {
+    public void addLast(String nextInt) {
         // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'addLast'");
     }
@@ -61,5 +61,20 @@ public class Main {
     public void display() {
         // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'display'");
+    }
+
+    public void remove(String string) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'remove'");
+    }
+
+    public void printForward() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'printForward'");
+    }
+
+    public void printBackward() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'printBackward'");
     }
 }
